@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/handongsoo1212/spa-blog-test/static/css/main.e6c13ad2.css",
+    "main.js": "/handongsoo1212/spa-blog-test/static/js/main.63143cb8.js",
+    "index.html": "/handongsoo1212/spa-blog-test/index.html",
+    "main.e6c13ad2.css.map": "/handongsoo1212/spa-blog-test/static/css/main.e6c13ad2.css.map",
+    "main.63143cb8.js.map": "/handongsoo1212/spa-blog-test/static/js/main.63143cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.63143cb8.js"
+  ]
+}
